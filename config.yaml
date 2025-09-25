@@ -1,0 +1,9 @@
+
+---
+
+### 📄 4. `config.yaml`
+
+```yaml
+interface: wlan0
+timeout: 5
+log_path: logs/
